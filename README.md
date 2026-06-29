@@ -110,3 +110,6 @@ Test the server interactively with the MCP Inspector:
 ```bash
 npx @modelcontextprotocol/inspector yougile-mcp
 ```
+
+
+----------
